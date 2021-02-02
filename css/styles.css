@@ -15,7 +15,7 @@ body {
 hr {
     height: 1px;
     background-color: black;
-    width: 30%;
+    width: 100%;
 }
 .card-image {
     height: 100px;
@@ -64,7 +64,7 @@ hr {
 }
 
 .links-redes-sociais {
-    text-decoration: none;
+    text-decoration: none !important;
 }
 
 .links-redes-sociais i {
